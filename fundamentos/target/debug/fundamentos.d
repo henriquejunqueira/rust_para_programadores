@@ -1,0 +1,1 @@
+/home/henrique/Documentos/projetos/desenvolvimento/rust_para_programadores/fundamentos/target/debug/fundamentos: /home/henrique/Documentos/projetos/desenvolvimento/rust_para_programadores/fundamentos/src/main.rs
